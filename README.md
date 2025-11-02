@@ -273,19 +273,16 @@ disaster-impact-analysis/
 ## 📈 Key Visualizations
 
 ### Death vs Displacement Paradox
-![Comparative Analysis](visualizations/death_displacement_comparison.png)
+![Comparative Analysis]
 *Side-by-side comparison revealing tropical cyclones cause most deaths while monsoonal rain causes most displacement*
 
 ### Geographic Vulnerability Map
-![Heatmap](visualizations/geographic_heatmap.png)
 *Color-coded map highlighting South and Southeast Asia as highest-risk regions*
 
 ### Temporal Incident Trends
-![Time Series](visualizations/temporal_trends.png)
 *Incident frequency peaked 1990-2000 with general decline post-2000*
 
 ### Disaster Type Impact Breakdown
-![Impact Analysis](visualizations/disaster_type_breakdown.png)
 *Comprehensive breakdown showing distinct impact profiles by disaster category*
 
 ## 💡 Strategic Recommendations
@@ -440,11 +437,13 @@ I specialize in transforming complex datasets into strategic insights using Powe
 - Provide actionable recommendations from data
 
 **Let's connect:**
-- 💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 📧 **Email**: your.email@example.com
-- 🐙 **GitHub**: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
-- 📊 **Portfolio**: [View More Projects](https://yourportfolio.com)
-- 🌐 **Power BI Portfolio**: [My Published Dashboards](https://app.powerbi.com/your-workspace)
+-📧 Email: Chainzmubarak2003@gmail.com
+
+LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+upwork: https://www.upwork.com/freelancers/~01c100bccc1a9bf5c9
+
+twitter: https://x.com/Chainzzee
 
 ---
 
